@@ -1,0 +1,10 @@
+trim() = remove white space from string
+
+fetch
+در این دستور یک درخواست ارسال میشود و یک پرامیس (promis) باز گردانده میشود 
+
+متد then برای 
+// handle the response
+
+متد catch
+// handle the error
